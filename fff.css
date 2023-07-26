@@ -73,3 +73,5 @@ footer .footer-col{
 	font-size: 15px;
 
 }
+footer .footer-col ul{
+	list-style:none;
